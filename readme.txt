@@ -1,4 +1,4 @@
 - yarn prisma init datasource-provider mysql
 - yarn prisma db pull
 - yarn prisma generate
-- ggdd
+- ggddgg
